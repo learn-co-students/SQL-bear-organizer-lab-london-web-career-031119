@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+SQLRunner	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/bin/sql_runner.rb	/^class SQLRunner$/;"	class	line:4
+initialize	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/bin/sql_runner.rb	/^  def initialize(db)$/;"	method	line:5	class:SQLRunner
+execute_create_file	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_create_file$/;"	method	line:9	class:SQLRunner
+execute_insert_file	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_insert_file$/;"	method	line:14	class:SQLRunner
+execute_select_file	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_select_file$/;"	method	line:19	class:SQLRunner
+execute_data	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/bin/sql_runner.rb	/^  def execute_data$/;"	method	line:24	class:SQLRunner
+SQL Bear Organizer	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^# SQL Bear Organizer$/;"	function	line:1
+Objectives	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:7
+Lab Structure	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^## Lab Structure$/;"	function	line:13
+A Note on Testing	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^### A Note on Testing$/;"	function	line:36
+Part 1: `CREATE TABLE`	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^## Part 1: `CREATE TABLE`$/;"	function	line:53
+Part 2: `INSERT`	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^## Part 2: `INSERT`$/;"	function	line:77
+Part 3: `SELECT`	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^## Part 3: `SELECT`$/;"	function	line:90
+Resources	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/README.md	/^## Resources$/;"	function	line:96
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+selects_all_female_bears_return_name_and_age	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def selects_all_female_bears_return_name_and_age$/;"	method	line:1
+selects_all_bears_names_and_orders_in_alphabetical_order	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def selects_all_bears_names_and_orders_in_alphabetical_order$/;"	method	line:5
+selects_all_bears_names_and_ages_that_are_alive_and_order_youngest_to_oldest	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def selects_all_bears_names_and_ages_that_are_alive_and_order_youngest_to_oldest$/;"	method	line:9
+selects_oldest_bear_and_returns_name_and_age	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def selects_oldest_bear_and_returns_name_and_age$/;"	method	line:13
+select_youngest_bear_and_returns_name_and_age	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def select_youngest_bear_and_returns_name_and_age$/;"	method	line:17
+selects_most_prominent_color_and_returns_with_count	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def selects_most_prominent_color_and_returns_with_count$/;"	method	line:21
+counts_number_of_bears_with_goofy_temperaments	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def counts_number_of_bears_with_goofy_temperaments$/;"	method	line:25
+selects_bear_that_killed_Tim	/Users/manon/Development/code/SQL-bear-organizer-lab-london-web-career-031119/lib/sql_queries.rb	/^def selects_bear_that_killed_Tim$/;"	method	line:29
